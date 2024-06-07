@@ -305,7 +305,7 @@ namespace PIDXFileDecompressor
 
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("A quick tool to unpack files from the PIDX container\ntool made by zMath3usMSF.");
+            MessageBox.Show("A quick tool to unpack files from the PIDX container\ntoolc made by zMath3usMSF.");
         }
     }
 }
