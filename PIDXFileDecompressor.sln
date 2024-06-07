@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIDXFileDecompressor", "HeroesCCSDecompress\PIDXFileDecompressor.csproj", "{5E505CCA-4F02-4DE5-A91F-D03AC8B943CD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIDXFileDecompressor", "PIDXFileDecompressor\PIDXFileDecompressor.csproj", "{5E505CCA-4F02-4DE5-A91F-D03AC8B943CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {DBDDAE09-17FF-4E6D-9532-1303E327684E}
+		SolutionGuid = {1F3D9E06-A9BB-43BC-87F8-96F11581E6DD}
 	EndGlobalSection
 EndGlobal
